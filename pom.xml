@@ -40,12 +40,14 @@
             <artifactId>slf4j-log4j12</artifactId>
             <version>${slf4j.version}</version>
         </dependency>
-        <!-- 具体的日志实现 -->
+        <!-- 具体的日志实现-->
         <dependency>
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
             <version>${log4j.version}</version>
         </dependency>
+
+
     </dependencies>
     <dependencyManagement>
         <!--此处声明工具依赖，各个模块，选择使用-->
