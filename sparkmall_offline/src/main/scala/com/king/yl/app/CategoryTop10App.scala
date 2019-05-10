@@ -9,6 +9,7 @@ import com.king.yl.handler.CategoryTop10Handler
 import com.king.yl.util.JdbcUtil
 import com.king.yl.utils.PropertiesUtil
 import org.apache.spark.SparkConf
+import org.apache.spark.broadcast.Broadcast
 import org.apache.spark.rdd.RDD
 import org.apache.spark.sql.SparkSession
 
@@ -40,7 +41,7 @@ object CategoryTop10App {
     val userVisitActionRDD: RDD[UserVisitAction] = CategoryTop10Handler.readAndFilterData(conditionObj, spark)
 
     //    测试读取RDD10条数据
-    userVisitActionRDD.take(10).foreach(println)
+//    userVisitActionRDD.take(10).foreach(println)
 
     //    6.创建累加器并注册
     val accu = new CategoryAccumulator
@@ -72,15 +73,15 @@ object CategoryTop10App {
 
     //     8.获取累加器的值 (order_1, 100)
     val categoryCountMap: mutable.HashMap[String, Long] = accu.value
-//        categoryCountMap.foreach(println)
+    //        categoryCountMap.foreach(println)
 
     //   9.按照品类id进行分组 (1, (click_1,100),(order_1,90),(pay_1,9))
     //    (8,Map(click_8 -> 940, pay_8 -> 464, order_8 -> 322))
     val categoryCountMapGroup: Map[String, mutable.HashMap[String, Long]] = categoryCountMap.groupBy(_._1.split("_")(1))
-//        categoryCountMapGroup.take(10).foreach(println)
+//    categoryCountMapGroup.take(10).foreach(println)
 
     //    10.排序
-    val result: List[(String, mutable.HashMap[String, Long])] = categoryCountMapGroup.toList.sortWith({
+    val categoryCountTop10: List[(String, mutable.HashMap[String, Long])] = categoryCountMapGroup.toList.sortWith({
       case (c1, c2) => {
         val category1: String = c1._1
         val category2: String = c2._1
@@ -108,32 +109,42 @@ object CategoryTop10App {
         }
       }
     }
-  ).take(10)
+    ).take(10)
 
-  //    result.foreach(println)
+        categoryCountTop10.foreach(println)
 
-  //    11.   将result进行结构调整，每一行成为一个Array
-  val taskId: String = UUID.randomUUID().toString
+    //    11.   将result进行结构调整，每一行成为一个Array
+    //    	resultArray =(taskId,1984,609,50)
+    val taskId: String = UUID.randomUUID().toString
 
-  val resultArray: List[Array[Any]] = result.map {
-    case (category, categoryCount) =>
-      Array(taskId,
-        category,
-        categoryCount.getOrElse(s"click_$category", 0L),
-        categoryCount.getOrElse(s"order_$category", 0L),
-        categoryCount.getOrElse(s"pay_$category", 0L)
-      )
+    val resultArray: List[Array[Any]] = categoryCountTop10.map {
+      case (category, categoryCount) =>
+        Array(taskId,
+          category,
+          categoryCount.getOrElse(s"click_$category", 0L),
+          categoryCount.getOrElse(s"order_$category", 0L),
+          categoryCount.getOrElse(s"pay_$category", 0L))
+    }
+
+    //    12.数据插入到Mysql
+//        JdbcUtil.executeBatchUpdate("insert into category_top10 values(?,?,?,?,?)", resultArray)
+
+    //    13.计算前10品类的前十点击session
+    val categorySessionTop10: RDD[Array[Any]] = CategorySessionTop10.getCategorySessionTop10(taskId, spark, userVisitActionRDD, categoryCountTop10)
+    println(categorySessionTop10.foreach(println) + "*************************")
+    val categorySessionTop10Array: Array[Array[Any]] = categorySessionTop10.collect()
+    //    println(categorySessionTop10Array)
+
+    //    14.数据插入到Mysql
+    JdbcUtil.executeBatchUpdate("insert into category_session_top10 values(?,?,?,?)", categorySessionTop10Array)
+
+
+    println("***********程序执行完毕！***********")
+
+    //    13.关闭连接
+    spark.close()
 
   }
-
-
-  //    12.数据插入到Mysql
-  JdbcUtil.executeBatchUpdate("insert into category_top10 values(?,?,?,?,?)", resultArray)
-
-  //    13.关闭连接
-  spark.close()
-
-}
 
 
 }

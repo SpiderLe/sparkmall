@@ -46,9 +46,12 @@ object CategoryTop10Handler {
 //    5.执行查询
     val dataFrame: DataFrame = spark.sql(sql.toString())
 
+
+
 //    6.将dataFrame转换为RDD   (先将dataFrame转换为Dataset,带类型，再由DataSet转换为RDD)
     val userVisitActionRDD: RDD[UserVisitAction] = dataFrame.as[UserVisitAction].rdd
 
+    userVisitActionRDD.foreach(println)
 //    7.返回RDD
     userVisitActionRDD
   }

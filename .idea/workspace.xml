@@ -1,170 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32412221-6984-4143-8c49-905ee5005563" name="Default Changelist" comment="this 2nd update">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_common/target/classes/com/king/yl/datamode/CityInfo$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_common/target/classes/com/king/yl/datamode/CityInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_common/target/classes/com/king/yl/datamode/ProductInfo$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_common/target/classes/com/king/yl/datamode/ProductInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_common/target/classes/com/king/yl/datamode/UserInfo$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_common/target/classes/com/king/yl/datamode/UserInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_common/target/classes/com/king/yl/datamode/UserVisitAction$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_common/target/classes/com/king/yl/datamode/UserVisitAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_common/target/classes/com/king/yl/utils/PropertiesUtil$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_common/target/classes/com/king/yl/utils/PropertiesUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_common/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/mockdata/MockerOffline$$anonfun$mockProductInfo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/mockdata/MockerOffline$$anonfun$mockUserAction$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/mockdata/MockerOffline$$anonfun$mockUserInfo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/mockdata/MockerOffline$$typecreator2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/mockdata/MockerOffline$$typecreator4$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/mockdata/MockerOffline$$typecreator6$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/mockdata/MockerOffline$$typecreator8$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/mockdata/MockerOffline$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/mockdata/MockerOffline.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/util/RanOpt$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/util/RanOpt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/util/RandomDate$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/util/RandomDate$RandomDate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/util/RandomDate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/util/RandomNum$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/util/RandomNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/util/RandomOptions$$anonfun$apply$1$$anonfun$apply$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/util/RandomOptions$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/util/RandomOptions$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_mock/target/classes/com/king/yl/util/RandomOptions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/accu/CategoryAccumulator.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategoryTop10App.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/CategoryTop10Handler.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/CategoryTop10Handler$$typecreator1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/CategoryTop10Handler$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/CategoryTop10Handler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/CategoryAccumulator$$anonfun$add$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/CategoryAccumulator$$anonfun$merge$1$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/CategoryAccumulator$$anonfun$merge$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/CategoryAccumulator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/test$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/test$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3$$anonfun$apply$11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3$$anonfun$apply$12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3$$anonfun$apply$13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$2$$anonfun$apply$14.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$2$$anonfun$apply$15.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/util/JdbcUtil$$anonfun$executeBatchUpdate$1$$anonfun$apply$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/util/JdbcUtil$$anonfun$executeBatchUpdate$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/util/JdbcUtil$$anonfun$executeUpdate$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/util/JdbcUtil$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/util/JdbcUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/conditions.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/config.properties" afterDir="false" />
+    <list default="true" id="32412221-6984-4143-8c49-905ee5005563" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategorySessionTop10.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metastore_db/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/db.lck" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metastore_db/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/log/log.ctrl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metastore_db/log/log1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/log/log1.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metastore_db/log/logmirror.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/log/logmirror.ctrl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c101.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c101.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c111.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c111.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c121.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c121.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c130.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c130.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c141.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c141.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c150.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c150.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c161.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c161.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c171.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c171.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c180.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c180.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c191.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c191.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c1a1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c1a1.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c1b1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c1b1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c1e0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c1e0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c1f1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c1f1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c20.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c20.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c200.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c200.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c211.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c211.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c221.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c221.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c230.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c230.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c31.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c31.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c41.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c41.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c490.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c490.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c4a1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c4a1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c4b0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c4b0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c4d1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c4d1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c4f0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c4f0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c501.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c501.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c51.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c51.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c510.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c510.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c521.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c521.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c530.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c530.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c541.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c541.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c550.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c550.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c570.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c570.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c581.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c581.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c590.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c590.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c5b0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c5b0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c5d0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c5d0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c5e1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c5e1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c5f0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c5f0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c60.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c60.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c610.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c610.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c621.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c621.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c630.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c630.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c641.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c641.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c650.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c650.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c670.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c670.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c690.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c690.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c6b0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c6b0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c6d0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c6d0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c6f0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c6f0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c71.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c71.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c711.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c711.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c721.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c721.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c731.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c731.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c741.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c741.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c751.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c751.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c781.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c781.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c7a1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c7a1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c7b1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c7b1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c81.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c81.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c840.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c840.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c860.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c860.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c880.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c880.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c8a0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c8a0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c90.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c90.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c920.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c920.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c931.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c931.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c940.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c940.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c951.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c951.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c960.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c960.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c971.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c971.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c981.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c981.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c990.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c990.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c9a1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c9a1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c9b1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c9b1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c9c0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c9c0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c9e0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c9e0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/ca1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/ca1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/cb1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/cb1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/seg0/cf0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/cf0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/src/main/resources/conditions.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/src/main/resources/conditions.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategoryTop10App.scala" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategoryTop10App.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/CategoryTop10Handler.scala" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/CategoryTop10Handler.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/CategoryTop10Handler$$typecreator1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/CategoryTop10Handler$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/CategoryTop10Handler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/CategoryAccumulator$$anonfun$merge$1$$anonfun$apply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/CategoryAccumulator$$anonfun$merge$1$$anonfun$apply$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/CategoryAccumulator$$anonfun$merge$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/CategoryAccumulator$$anonfun$merge$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/CategoryAccumulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/CategoryAccumulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/test$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/test$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3$$anonfun$apply$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3$$anonfun$apply$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3$$anonfun$apply$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3$$anonfun$apply$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3$$anonfun$apply$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3$$anonfun$apply$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$2$$anonfun$apply$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$2$$anonfun$apply$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -182,11 +63,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategoryTop10App.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="134" selection-start-line="134" selection-end-line="134" />
+            <state relative-caret-position="307">
+              <caret line="146" column="3" lean-forward="true" selection-start-line="146" selection-start-column="3" selection-end-line="146" selection-end-column="3" />
               <folding>
                 <element signature="e#25#60#0" expanded="true" />
               </folding>
@@ -195,9 +76,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategorySessionTop10.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-710">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#25#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/util/JDBCUtil.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
+            <state relative-caret-position="2">
               <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
               <folding>
                 <element signature="e#26#73#0" expanded="true" />
@@ -209,26 +102,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/CategoryTop10Handler.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="-40">
+              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/resources/conditions.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/accu/CategoryAccumulator.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
-              <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+            <state relative-caret-position="441">
+              <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
               <folding>
                 <element signature="e#26#68#0" expanded="true" />
               </folding>
@@ -260,6 +144,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="spideryang &lt;670632685@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -282,12 +171,13 @@
         <option value="$PROJECT_DIR$/sparkmall_offline/src/main/resources/config.properties" />
         <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/util/JDBCUtil.scala" />
         <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/CategoryTop10Handler.scala" />
-        <option value="$PROJECT_DIR$/sparkmall_offline/src/main/resources/conditions.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/accu/test.scala" />
         <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/accu/CategoryAccumulator.scala" />
-        <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategoryTop10App.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategorySessionTop10.scala" />
         <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/CategoryTop10Handler.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_offline/src/main/resources/conditions.properties" />
+        <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategoryTop10App.scala" />
       </list>
     </option>
   </component>
@@ -360,6 +250,17 @@
               <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
               <item name="spark-warehouse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_mock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_mock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
@@ -570,37 +471,45 @@
       <workItem from="1557367936293" duration="24118000" />
       <workItem from="1557448924045" duration="12808000" />
       <workItem from="1557463587275" duration="261000" />
-      <workItem from="1557467069094" duration="298000" />
+      <workItem from="1557467069094" duration="9948000" />
     </task>
+    <task id="LOCAL-00001" summary="this 2nd update">
+      <created>1557467476176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557467476176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38756000" />
+    <option name="totallyTimeSpent" value="48406000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27987897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49848714" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49848714" weight="0.3295082" />
       <window_info anchor="bottom" id="Java Enterprise" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.46557376" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49924356" weight="0.20327869" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49924356" visible="true" weight="0.17704917" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5015129" side_tool="true" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5015129" side_tool="true" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -613,37 +522,37 @@
       <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2677761" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49848714" weight="0.3295082" />
       <window_info anchor="bottom" id="Java Enterprise" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.27377048" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.46557376" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49924356" visible="true" weight="0.35409835" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="right" id="Bean Validation" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.32980332" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5015129" side_tool="true" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -652,6 +561,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="this 2nd update" />
     <option name="LAST_COMMIT_MESSAGE" value="this 2nd update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategoryTop10App.scala</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sparkmall_common/pom.xml">
@@ -762,16 +683,6 @@
           <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
           <folding>
             <element signature="e#27#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_mock/src/main/scala/com/king/yl/mockdata/MockerOffline.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-443">
-          <caret line="76" column="3" lean-forward="true" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
-          <folding>
-            <element signature="e#30#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -944,20 +855,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/accu/test.scala" />
     <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/CategoryTop10Handler.scala" />
-    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/util/JDBCUtil.scala">
+    <entry file="jar://$PROJECT_DIR$/../Java/jdk1.8.0_144/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+        <state relative-caret-position="67">
+          <caret line="1752" column="15" selection-start-line="1752" selection-start-column="15" selection-end-line="1752" selection-end-column="15" />
           <folding>
-            <element signature="e#26#73#0" expanded="true" />
+            <element signature="e#66457#66458#0" expanded="true" />
+            <element signature="e#66495#66496#0" expanded="true" />
+            <element signature="e#82971#82972#0" expanded="true" />
+            <element signature="e#83020#83021#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/resources/conditions.properties">
+    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/accu/CategoryAccumulator.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="441">
+          <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+          <folding>
+            <element signature="e#26#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/util/JDBCUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+          <folding>
+            <element signature="e#26#73#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -968,29 +895,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/resources/conditions.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/CategoryTop10Handler.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="-40">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategorySessionTop10.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-710">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#25#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_mock/src/main/scala/com/king/yl/mockdata/MockerOffline.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1268">
+          <caret line="76" column="3" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
+          <folding>
+            <element signature="e#30#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategoryTop10App.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        <state relative-caret-position="307">
+          <caret line="146" column="3" lean-forward="true" selection-start-line="146" selection-start-column="3" selection-end-line="146" selection-end-column="3" />
           <folding>
             <element signature="e#25#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/accu/CategoryAccumulator.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
-          <folding>
-            <element signature="e#26#68#0" expanded="true" />
           </folding>
         </state>
       </provider>
