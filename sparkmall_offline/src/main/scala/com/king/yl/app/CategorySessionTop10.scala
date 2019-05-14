@@ -52,7 +52,7 @@ object CategorySessionTop10 {
         ((s"${userVisitAction.click_category_id}_${userVisitAction.session_id}"), 1)
       }).reduceByKey(_ + _)
 
-    //    5. 转换维度
+    //    5. 转换维度（category，（category， session, count））
     val categoryToSessionCount: RDD[(String, (String, String, Int))] = categorySessionCount.map(
       x => {
         val categorySession: Array[String] = x._1.split("_")

@@ -129,6 +129,7 @@ object CategoryTop10App {
     //    12.数据插入到Mysql
 //        JdbcUtil.executeBatchUpdate("insert into category_top10 values(?,?,?,?,?)", resultArray)
 
+//    （*************************************************************************************************)
     //    13.计算前10品类的前十点击session
     val categorySessionTop10: RDD[Array[Any]] = CategorySessionTop10.getCategorySessionTop10(taskId, spark, userVisitActionRDD, categoryCountTop10)
     println(categorySessionTop10.foreach(println) + "*************************")

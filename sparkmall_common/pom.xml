@@ -85,14 +85,14 @@
         <dependency>
             <groupId>org.json4s</groupId>
             <artifactId>json4s-native_2.11</artifactId>
-            <version>3.2.11</version>
+            <version>3.3.0</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.json4s/json4s-jackson -->
         <dependency>
             <groupId>org.json4s</groupId>
             <artifactId>json4s-jackson_2.11</artifactId>
-            <version>3.2.11</version>
+            <version>3.3.0</version>
         </dependency>
 
     </dependencies>

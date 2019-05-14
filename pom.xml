@@ -12,6 +12,7 @@
         <module>sparkmall_common</module>
         <module>sparkmall_mock</module>
         <module>sparkmall_offline</module>
+        <module>sparkmall_realtime</module>
     </modules>
 
 

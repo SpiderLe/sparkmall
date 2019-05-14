@@ -1,50 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32412221-6984-4143-8c49-905ee5005563" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategorySessionTop10.scala" afterDir="false" />
+    <list default="true" id="32412221-6984-4143-8c49-905ee5005563" name="Default Changelist" comment="this d update">
+      <change afterPath="$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/datamode/ProductAndArea.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_common/target/classes/com/king/yl/datamode/ProductAndArea$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_common/target/classes/com/king/yl/datamode/ProductAndArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/ProductAndAreaTop3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/ProductAreaTop3Handler.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/META-INF/sparkmall_offline.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategorySessionTop10$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategorySessionTop10$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategorySessionTop10$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategorySessionTop10$$anonfun$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategorySessionTop10$$anonfun$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategorySessionTop10$$anonfun$6$$anonfun$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategorySessionTop10$$anonfun$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategorySessionTop10$$anonfun$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategorySessionTop10$$anonfun$getCategorySessionTop10$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategorySessionTop10$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategorySessionTop10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$1$$anonfun$apply$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$1$$anonfun$apply$15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/ProductAndAreaTop3$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/ProductAndAreaTop3$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/ProductAndAreaTop3$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/ProductAndAreaTop3$$anonfun$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/ProductAndAreaTop3$$anonfun$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/ProductAndAreaTop3$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/ProductAndAreaTop3$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/ProductAndAreaTop3$$anonfun$main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/ProductAndAreaTop3$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/ProductAndAreaTop3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/handler/CategoryTop10Handler$$anonfun$readAndFilterData$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/handler/CategoryTop10Handler$$typecreator1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/handler/CategoryTop10Handler$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/handler/CategoryTop10Handler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/handler/ProductAreaTop3Handler$$typecreator1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/handler/ProductAreaTop3Handler$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/handler/ProductAreaTop3Handler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metastore_db/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/db.lck" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metastore_db/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/log/log.ctrl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metastore_db/log/log1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/log/log1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metastore_db/log/log1.dat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/metastore_db/log/logmirror.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/log/logmirror.ctrl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c180.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c180.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c191.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c191.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c1a1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c1a1.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/metastore_db/seg0/c1b1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/metastore_db/seg0/c1b1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/src/main/resources/conditions.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/src/main/resources/conditions.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategorySessionTop10.scala" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategorySessionTop10.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategoryTop10App.scala" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategoryTop10App.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/CategoryTop10Handler.scala" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/CategoryTop10Handler.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/CategoryTop10Handler$$typecreator1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/CategoryTop10Handler$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/CategoryTop10Handler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/CategoryAccumulator$$anonfun$merge$1$$anonfun$apply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/CategoryAccumulator$$anonfun$merge$1$$anonfun$apply$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/CategoryAccumulator$$anonfun$merge$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/CategoryAccumulator$$anonfun$merge$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/CategoryAccumulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/CategoryAccumulator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/test$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/test$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/accu/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2$$anonfun$apply$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3$$anonfun$apply$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3$$anonfun$apply$11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3$$anonfun$apply$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3$$anonfun$apply$12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3$$anonfun$apply$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3$$anonfun$apply$13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$2$$anonfun$apply$14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$2$$anonfun$apply$15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$$anonfun$main$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$.class" beforeDir="false" afterPath="$PROJECT_DIR$/sparkmall_offline/target/classes/com/king/yl/app/CategoryTop10App$.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,6 +61,7 @@
     <ignored path="$PROJECT_DIR$/sparkmall_common/target/" />
     <ignored path="$PROJECT_DIR$/sparkmall_mock/target/" />
     <ignored path="$PROJECT_DIR$/sparkmall_offline/target/" />
+    <ignored path="$PROJECT_DIR$/sparkmall_realtime/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,68 +73,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sparkmall_mock/src/main/scala/com/king/yl/mockdata/MockerRealTime.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+              <folding>
+                <element signature="e#30#67#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/app/RealTimeApp.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="67" column="52" selection-start-line="67" selection-start-column="52" selection-end-line="67" selection-end-column="52" />
+              <folding>
+                <element signature="e#25#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategoryTop10App.scala">
+        <entry file="file://$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/handler/LastHourAdsClickCountHandler.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="146" column="3" lean-forward="true" selection-start-line="146" selection-start-column="3" selection-end-line="146" selection-end-column="3" />
+            <state relative-caret-position="306">
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
               <folding>
-                <element signature="e#25#60#0" expanded="true" />
+                <element signature="e#29#62#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategorySessionTop10.scala">
+        <entry file="file://$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/handler/DateAreaAdsCountTop3Handler.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-710">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="1547">
+              <caret line="96" selection-start-line="96" selection-end-line="96" />
               <folding>
-                <element signature="e#25#68#0" expanded="true" />
+                <element signature="e#30#64#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/util/JDBCUtil.scala">
+        <entry file="file://$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/handler/DateAreaCityAdsCountHandler.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2">
-              <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+            <state relative-caret-position="1207">
+              <caret line="77" column="72" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="72" />
               <folding>
-                <element signature="e#26#73#0" expanded="true" />
+                <element signature="e#29#62#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/CategoryTop10Handler.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-40">
-              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/accu/CategoryAccumulator.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
-              <folding>
-                <element signature="e#26#68#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/resources/config.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -135,6 +139,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Scala Object" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -154,9 +159,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sparkmall_common/pom.xml" />
         <option value="$PROJECT_DIR$/sparkmall_common/src/main/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/sparkmall_common/src/main/resources/config.properties" />
         <option value="$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/utils/PropertiesUtil.scala" />
         <option value="$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/datamode/UserVisitAction.scala" />
         <option value="$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/datamode/UserInfo.scala" />
@@ -174,10 +177,35 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/accu/test.scala" />
         <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/accu/CategoryAccumulator.scala" />
-        <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategorySessionTop10.scala" />
         <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/CategoryTop10Handler.scala" />
         <option value="$PROJECT_DIR$/sparkmall_offline/src/main/resources/conditions.properties" />
+        <option value="$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/datamode/ProductAndArea.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/ProductAreaTop3Handler.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategorySessionTop10.scala" />
         <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategoryTop10App.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/ProductAndAreaTop3.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/SingleJumpHandler.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/SingleJumpRatioApp.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/bean/CityRatio.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/udf/CityRatioUDAF.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/AreaProductTop3App.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/utils/RedisUtil.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/utils/MyKafkaUtil.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_realtime/src/test/scala/com/king/yl/kafkaTest/TestKafkaDStream.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_common/pom.xml" />
+        <option value="$PROJECT_DIR$/sparkmall_realtime/pom.xml" />
+        <option value="$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/utils/MyKafkaUtil.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/bean/AdsLog.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/handler/BlackListHandler.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_common/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/sparkmall_mock/src/main/scala/com/king/yl/mockdata/MockerRealTime.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_mock/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/sparkmall_realtime/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/utils/RedisUtil.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/handler/DateAreaCityAdsCountHandler.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/handler/DateAreaAdsCountTop3Handler.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/app/RealTimeApp.scala" />
+        <option value="$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/handler/LastHourAdsClickCountHandler.scala" />
       </list>
     </option>
   </component>
@@ -196,39 +224,15 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="sparkmall" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="sparkmall" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="sparkmall_common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="sparkmall_common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="sparkmall_common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-39" />
-    <option name="y" value="10" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="693" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -238,7 +242,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,41 +253,25 @@
             <path>
               <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
-              <item name="spark-warehouse" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkmall_mock" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkmall_mock" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkmall_offline" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkmall_offline" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkmall_offline" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkmall_offline" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -291,7 +279,7 @@
             <path>
               <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkmall_offline" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
@@ -299,7 +287,66 @@
             <path>
               <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkmall_offline" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="yl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="yl" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_mock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_mock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_mock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_mock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_mock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_mock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
@@ -308,17 +355,60 @@
             <path>
               <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkmall_offline" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_mock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="yl" type="462c0819:PsiDirectoryNode" />
-              <item name="accu" type="462c0819:PsiDirectoryNode" />
+              <item name="mockdata" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkmall_offline" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_realtime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="yl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_realtime" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
@@ -328,7 +418,7 @@
             <path>
               <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkmall_offline" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_realtime" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
@@ -338,34 +428,54 @@
             <path>
               <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkmall_offline" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_realtime" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="yl" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sparkmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkmall" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall_realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="kafkaTest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sparkmall_common/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\sparkmall\sparkmall_offline\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\sparkmall\sparkmall_common\src\main\resources" />
+      <recent name="D:\sparkmall\sparkmall_realtime\src\main\resources" />
+      <recent name="D:\sparkmall\sparkmall_mock\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -380,9 +490,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CategoryTop10App">
-    <configuration name="CategoryTop10App" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.king.yl.app.CategoryTop10App" />
+  <component name="RunManager" selected="Application.RealTimeApp">
+    <configuration name="AreaProductTop3App" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.king.yl.app.AreaProductTop3App" />
       <module name="sparkmall_offline" />
       <extension name="coverage">
         <pattern>
@@ -394,21 +504,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JdbcUtil" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.king.yl.util.JdbcUtil" />
-      <module name="sparkmall_offline" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.king.yl.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MockerOffline" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.king.yl.mockdata.MockerOffline" />
+    <configuration name="MockerRealTime" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.king.yl.mockdata.MockerRealTime" />
       <module name="sparkmall_mock" />
       <extension name="coverage">
         <pattern>
@@ -420,8 +517,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PropertiesUtil" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.king.yl.utils.PropertiesUtil" />
+    <configuration name="RealTimeApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.king.yl.app.RealTimeApp" />
+      <module name="sparkmall_realtime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.king.yl.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisUtil" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.king.yl.utils.RedisUtil" />
       <module name="sparkmall_common" />
       <extension name="coverage">
         <pattern>
@@ -433,12 +543,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomOptions" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.king.yl.util.RandomOptions" />
-      <module name="sparkmall_mock" />
+    <configuration name="TestKafkaDStream" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.king.yl.kafkaTest.TestKafkaDStream" />
+      <module name="sparkmall_realtime" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.king.yl.util.*" />
+          <option name="PATTERN" value="com.king.yl.kafkaTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -448,11 +558,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CategoryTop10App" />
-        <item itemvalue="Application.JdbcUtil" />
-        <item itemvalue="Application.PropertiesUtil" />
-        <item itemvalue="Application.MockerOffline" />
-        <item itemvalue="Application.RandomOptions" />
+        <item itemvalue="Application.RealTimeApp" />
+        <item itemvalue="Application.MockerRealTime" />
+        <item itemvalue="Application.RedisUtil" />
+        <item itemvalue="Application.TestKafkaDStream" />
+        <item itemvalue="Application.AreaProductTop3App" />
       </list>
     </recent_temporary>
   </component>
@@ -471,7 +581,22 @@
       <workItem from="1557367936293" duration="24118000" />
       <workItem from="1557448924045" duration="12808000" />
       <workItem from="1557463587275" duration="261000" />
-      <workItem from="1557467069094" duration="9948000" />
+      <workItem from="1557467069094" duration="13503000" />
+      <workItem from="1557498783774" duration="3136000" />
+      <workItem from="1557534734151" duration="32930000" />
+      <workItem from="1557584508915" duration="7148000" />
+      <workItem from="1557624070894" duration="15857000" />
+      <workItem from="1557667258945" duration="934000" />
+      <workItem from="1557671012382" duration="14207000" />
+      <workItem from="1557685750561" duration="143000" />
+      <workItem from="1557707196763" duration="14841000" />
+      <workItem from="1557749594294" duration="7501000" />
+      <workItem from="1557793641981" duration="816000" />
+      <workItem from="1557802506713" duration="99000" />
+      <workItem from="1557813011308" duration="41000" />
+      <workItem from="1557813394030" duration="7000" />
+      <workItem from="1557814535277" duration="74000" />
+      <workItem from="1557818758477" duration="116000" />
     </task>
     <task id="LOCAL-00001" summary="this 2nd update">
       <created>1557467476176</created>
@@ -480,33 +605,40 @@
       <option name="project" value="LOCAL" />
       <updated>1557467476176</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="this 2nd update">
+      <created>1557477741724</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557477741724</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48406000" />
+    <option name="totallyTimeSpent" value="149811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27987897" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49848714" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49848714" weight="0.45409837" />
       <window_info anchor="bottom" id="Java Enterprise" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.46557376" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49924356" visible="true" weight="0.17704917" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49924356" weight="0.4442623" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5015129" side_tool="true" weight="0.3295082" />
@@ -522,24 +654,24 @@
       <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2677761" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49848714" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49848714" weight="0.45409837" />
       <window_info anchor="bottom" id="Java Enterprise" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.46557376" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.49924356" visible="true" weight="0.35409835" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49924356" visible="true" weight="0.27704918" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5015129" side_tool="true" weight="0.3295082" />
@@ -558,383 +690,440 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="this 2nd update" />
     <option name="LAST_COMMIT_MESSAGE" value="this 2nd update" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategoryTop10App.scala</url>
-          <line>132</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sparkmall_common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_common/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../Java/jdk1.8.0_144/src.zip!/java/util/Properties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="343" column="17" selection-start-line="343" selection-start-column="17" selection-end-line="343" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/datamode/UserVisitAction.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/datamode/UserInfo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/metastore_db/README_DO_NOT_TOUCH_FILES.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/metastore_db/log/README_DO_NOT_TOUCH_FILES.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_mock/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_mock/src/main/scala/com/king/yl/util/RandomOptions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
-          <folding>
-            <element signature="e#26#68#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spark-warehouse/user_visit_action/.part-00003-9c78e3cc-9eb3-4c1e-afca-fc40c14e54c7.snappy.parquet.crc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_offline/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/datamode/CityInfo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/datamode/ProductInfo.scala">
+    <entry file="file://$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/datamode/ProductAndArea.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_mock/src/main/scala/com/king/yl/util/RandomNum.scala">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/mutable/Builder.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        <state relative-caret-position="193">
+          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/IndexedSeqOptimized.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="146" column="35" selection-start-line="146" selection-start-column="35" selection-end-line="146" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategoryTop10App.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="131" column="105" selection-start-line="131" selection-start-column="105" selection-end-line="131" selection-end-column="105" />
           <folding>
-            <element signature="e#26#57#0" expanded="true" />
+            <element signature="e#25#60#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_mock/src/main/scala/com/king/yl/util/RandomDate.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#26#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/utils/PropertiesUtil.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-          <folding>
-            <element signature="e#27#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1-sources.jar!/org/apache/spark/rdd/RDDOperationScope.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="135" column="8" selection-start-line="135" selection-start-column="8" selection-end-line="135" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1-sources.jar!/org/apache/spark/rdd/RDD.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="372" lean-forward="true" selection-start-line="372" selection-end-line="372" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1-sources.jar!/org/apache/spark/executor/Executor.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="326" column="13" lean-forward="true" selection-start-line="326" selection-start-column="13" selection-end-line="326" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1-sources.jar!/org/apache/spark/scheduler/Task.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="113" column="8" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1-sources.jar!/org/apache/spark/TaskContextImpl.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="103" column="4" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1-sources.jar!/org/apache/spark/TaskContext.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="122" column="66" selection-start-line="122" selection-start-column="66" selection-end-line="122" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1-sources.jar!/org/apache/spark/sql/execution/datasources/parquet/ParquetFileFormat.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="403" column="73" selection-start-line="403" selection-start-column="73" selection-end-line="403" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1-sources.jar!/org/apache/spark/sql/execution/datasources/RecordReaderIterator.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1-sources.jar!/org/apache/spark/sql/execution/datasources/parquet/VectorizedParquetRecordReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="127" selection-start-line="127" selection-end-line="127" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1-sources.jar!/org/apache/spark/sql/execution/vectorized/ColumnarBatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1-sources.jar!/org/apache/spark/sql/execution/vectorized/OnHeapColumnVector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1-sources.jar!/org/apache/spark/sql/execution/BufferedRowIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="e#1724#1725#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.1.1/spark-catalyst_2.11-2.1.1.jar!/org/apache/spark/sql/catalyst/expressions/UnsafeRow.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="273" selection-start-line="273" selection-end-line="273" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-unsafe_2.11/2.1.1/spark-unsafe_2.11-2.1.1.jar!/org/apache/spark/unsafe/bitset/BitSetMethods.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-unsafe_2.11/2.1.1/spark-unsafe_2.11-2.1.1.jar!/org/apache/spark/unsafe/Platform.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="e#2047#2048#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-unsafe_2.11/2.1.1/spark-unsafe_2.11-2.1.1-sources.jar!/org/apache/spark/unsafe/Platform.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="109" selection-start-line="109" selection-end-line="109" />
-          <folding>
-            <element signature="e#3632#3633#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1-sources.jar!/org/apache/spark/sql/execution/WholeStageCodegenExec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="380" column="43" selection-start-line="380" selection-start-column="43" selection-end-line="380" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.1.1/spark-catalyst_2.11-2.1.1-sources.jar!/org/apache/spark/sql/catalyst/expressions/UnsafeRow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="352" selection-start-line="352" selection-end-line="352" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-unsafe_2.11/2.1.1/spark-unsafe_2.11-2.1.1-sources.jar!/org/apache/spark/unsafe/bitset/BitSetMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar!/scala/Serializable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Serializable.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1-sources.jar!/org/apache/spark/util/AccumulatorV2.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="44" column="53" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/accu/test.scala" />
-    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/CategoryTop10Handler.scala" />
-    <entry file="jar://$PROJECT_DIR$/../Java/jdk1.8.0_144/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="1752" column="15" selection-start-line="1752" selection-start-column="15" selection-end-line="1752" selection-end-column="15" />
-          <folding>
-            <element signature="e#66457#66458#0" expanded="true" />
-            <element signature="e#66495#66496#0" expanded="true" />
-            <element signature="e#82971#82972#0" expanded="true" />
-            <element signature="e#83020#83021#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/accu/CategoryAccumulator.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
-          <folding>
-            <element signature="e#26#68#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/util/JDBCUtil.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
-          <folding>
-            <element signature="e#26#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/resources/conditions.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/CategoryTop10Handler.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategorySessionTop10.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-710">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="170">
+          <caret line="69" column="7" selection-start-line="69" selection-start-column="7" selection-end-line="69" selection-end-column="7" />
           <folding>
             <element signature="e#25#68#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_mock/src/main/scala/com/king/yl/mockdata/MockerOffline.scala">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableLike.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1268">
-          <caret line="76" column="3" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
+        <state relative-caret-position="144">
+          <caret line="244" column="66" selection-start-line="244" selection-start-column="66" selection-end-line="244" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/SeqLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="400" column="6" selection-start-line="400" selection-start-column="6" selection-end-line="400" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/SingleJumpHandler.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
           <folding>
-            <element signature="e#30#63#0" expanded="true" />
+            <element signature="e#29#72#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/CategoryTop10App.scala">
+    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/util/JDBCUtil.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="146" column="3" lean-forward="true" selection-start-line="146" selection-start-column="3" selection-end-line="146" selection-end-column="3" />
+        <state relative-caret-position="4">
+          <caret line="50" column="68" selection-start-line="50" selection-start-column="65" selection-end-line="50" selection-end-column="68" />
+          <folding>
+            <element signature="e#26#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/SingleJumpRatioApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
           <folding>
             <element signature="e#25#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/datamode/CityInfo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1-sources.jar!/org/apache/spark/sql/SparkSession.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="859" selection-start-line="859" selection-end-line="859" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/datamode/UserVisitAction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/CategoryTop10Handler.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/ProductAndAreaTop3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="e#25#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/handler/ProductAreaTop3Handler.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" column="111" selection-start-line="24" selection-start-column="105" selection-end-line="25" selection-end-column="111" />
+          <folding>
+            <element signature="e#29#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/app/AreaProductTop3App.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+          <folding>
+            <element signature="e#25#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/udf/CityRatioUDAF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <element signature="e#26#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/scala/com/king/yl/bean/CityRatio.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/utils.java" />
+    <entry file="file://$PROJECT_DIR$/sparkmall_mock/src/main/scala/com/king/yl/util/RandomNum.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_mock/src/main/scala/com/king/yl/util/RandomDate.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/utils/RedisUtil.scala" />
+    <entry file="file://$PROJECT_DIR$/sparkmall_offline/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/utils/PropertiesUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_offline/src/main/resources/conditions.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.1.1/spark-streaming-kafka-0-10_2.11-2.1.1-sources.jar!/org/apache/spark/streaming/kafka010/LocationStrategy.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-151">
+          <caret line="60" column="24" lean-forward="true" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.1/kafka-clients-0.10.2.1.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/utils/MyKafkaUtil.scala" />
+    <entry file="file://$PROJECT_DIR$/sparkmall_common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="88" column="21" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="118" column="40" selection-start-line="118" selection-start-column="40" selection-end-line="118" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_realtime/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/bean/AdsLog.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="110" column="6" selection-start-line="110" selection-start-column="6" selection-end-line="110" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.1/spark-streaming_2.11-2.1.1-sources.jar!/org/apache/spark/streaming/dstream/DStream.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="665" selection-start-line="665" selection-end-line="665" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_realtime/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.1/kafka-clients-0.10.2.1-sources.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_realtime/src/test/scala/com/king/yl/kafkaTest/TestKafkaDStream.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+          <folding>
+            <element signature="e#31#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="107" column="94" selection-start-line="107" selection-start-column="90" selection-end-line="107" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_mock/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1-sources.jar!/org/apache/spark/SparkConf.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="112" column="9" lean-forward="true" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/handler/BlackListHandler.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+          <folding>
+            <element signature="e#29#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/utils/MyKafkaUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#27#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_common/src/main/scala/com/king/yl/utils/RedisUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <element signature="e#30#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_common/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_mock/src/main/scala/com/king/yl/mockdata/MockerRealTime.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="56" column="3" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+          <folding>
+            <element signature="e#30#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/app/RealTimeApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="67" column="52" selection-start-line="67" selection-start-column="52" selection-end-line="67" selection-end-column="52" />
+          <folding>
+            <element signature="e#25#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/handler/DateAreaAdsCountTop3Handler.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+          <folding>
+            <element signature="e#30#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/handler/DateAreaCityAdsCountHandler.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="77" column="72" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="72" />
+          <folding>
+            <element signature="e#29#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmall_realtime/src/main/scala/com/king/yl/handler/LastHourAdsClickCountHandler.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding>
+            <element signature="e#29#62#0" expanded="true" />
           </folding>
         </state>
       </provider>
